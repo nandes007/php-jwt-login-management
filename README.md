@@ -21,6 +21,6 @@
 - composer install
 
 # Run
-- Masuk ke directory publi : 'cd public'
+- Masuk ke directory public : 'cd public'
 - Jalankan script : 'php -S localhost:8080'
 - atau buat localserver sendiri
